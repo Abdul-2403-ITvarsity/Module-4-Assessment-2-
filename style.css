@@ -63,3 +63,16 @@ body{
     left: 400px;
     top: 400px;
 }
+
+
+#grid{
+    width: 50%;
+    float: left;
+    background-color: aqua;
+}
+#right-colomn{
+    width: 50%;
+    float: right;
+    right: 0;
+    bottom: 0;
+}
